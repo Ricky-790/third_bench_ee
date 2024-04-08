@@ -3,3 +3,18 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.navbar{
+    padding: 15px;
+    background-color:rgb(8, 87, 190);
+    font-size: 2rem;
+}
+.tabs{
+    text-decoration: none;
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
+.stock{
+    background-color: blueviolet;
+}
