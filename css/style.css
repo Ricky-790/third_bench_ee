@@ -9,12 +9,45 @@
     background-color:rgb(8, 87, 190);
     font-size: 2rem;
 }
+.tabble{
+    padding: 15px;
+    font-size: 2rem;
+    border-style: dashed;
+    border-width: 2px;
+}
 .tabs{
     text-decoration: none;
     color: antiquewhite;
     display: flex;
     justify-content: space-between;
 }
+.list{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
 .stock{
-    background-color: blueviolet;
+    background-color: rgb(230, 215, 85);
+    font-size: 2rem;
+    color: whitesmoke;
+    width: 30%;
+    margin: 10px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+.stock-section{
+    border: solid 1px black;
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+}
+.items{
+    text-decoration: none;
+}
+.itemslist{
+    display: flex;
+    justify-content: center;
 }
